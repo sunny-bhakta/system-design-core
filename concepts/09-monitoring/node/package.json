@@ -1,0 +1,26 @@
+{
+  "name": "monitoring-concepts",
+  "version": "1.0.0",
+  "description": "Monitoring and observability concepts examples",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "metrics": "node metrics.js",
+    "tracing": "node distributed-tracing.js",
+    "health": "node health-checks-monitoring.js",
+    "alerting": "node alerting.js",
+    "apm": "node apm.js",
+    "logging": "node logging.js",
+    "all": "node metrics.js && node distributed-tracing.js && node health-checks-monitoring.js && node alerting.js && node apm.js && node logging.js"
+  },
+  "keywords": [
+    "system-design",
+    "monitoring",
+    "metrics",
+    "tracing",
+    "apm"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+

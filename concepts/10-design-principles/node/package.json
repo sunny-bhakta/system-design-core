@@ -1,0 +1,26 @@
+{
+  "name": "design-principles",
+  "version": "1.0.0",
+  "description": "Design principles examples - SOLID, DRY, KISS, YAGNI, and more",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "solid": "node solid-principles.js",
+    "dry-kiss-yagni": "node dry-kiss-yagni.js",
+    "design-for-failure": "node design-for-failure.js",
+    "design-for-scale": "node design-for-scale.js",
+    "separation": "node separation-of-concerns.js",
+    "all": "node solid-principles.js && node dry-kiss-yagni.js && node design-for-failure.js && node design-for-scale.js && node separation-of-concerns.js"
+  },
+  "keywords": [
+    "system-design",
+    "design-principles",
+    "solid",
+    "dry",
+    "kiss",
+    "yagni"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+

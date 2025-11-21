@@ -1,0 +1,28 @@
+{
+  "name": "communication-concepts",
+  "version": "1.0.0",
+  "description": "Communication and networking concepts examples",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "rate-limiter": "node rate-limiter.js",
+    "message-queue": "node message-queue.js",
+    "restful-api": "node restful-api.js",
+    "websocket": "node websocket.js",
+    "grpc": "node grpc.js",
+    "graphql": "node graphql.js",
+    "all": "node restful-api.js && node websocket.js && node grpc.js && node graphql.js && node rate-limiter.js && node message-queue.js"
+  },
+  "keywords": [
+    "system-design",
+    "communication",
+    "api",
+    "rest",
+    "graphql",
+    "grpc",
+    "websocket"
+  ],
+  "author": "",
+  "license": "MIT"
+}

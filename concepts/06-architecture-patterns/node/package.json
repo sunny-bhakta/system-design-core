@@ -1,0 +1,28 @@
+{
+  "name": "architecture-patterns",
+  "version": "1.0.0",
+  "description": "System architecture patterns examples",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "microservices": "node microservices.js",
+    "monolithic": "node monolithic.js",
+    "event-driven": "node event-driven.js",
+    "layered": "node layered-architecture.js",
+    "serverless": "node serverless.js",
+    "cqrs": "node cqrs.js",
+    "all": "node monolithic.js && node event-driven.js && node layered-architecture.js && node serverless.js && node cqrs.js && node microservices.js"
+  },
+  "keywords": [
+    "system-design",
+    "architecture",
+    "monolithic",
+    "microservices",
+    "event-driven",
+    "serverless",
+    "cqrs"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+

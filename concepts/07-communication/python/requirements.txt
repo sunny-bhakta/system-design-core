@@ -1,0 +1,3 @@
+# Python requirements for communication concepts
+# Add dependencies as needed for advanced examples
+

@@ -1,0 +1,26 @@
+{
+  "name": "security-concepts",
+  "version": "1.0.0",
+  "description": "Security concepts examples",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "jwt-auth": "node jwt-auth.js",
+    "authorization": "node authorization.js",
+    "oauth2": "node oauth2.js",
+    "input-validation": "node input-validation.js",
+    "attack-vectors": "node attack-vectors.js",
+    "all": "node jwt-auth.js && node authorization.js && node oauth2.js && node input-validation.js && node attack-vectors.js"
+  },
+  "keywords": [
+    "system-design",
+    "security",
+    "authentication",
+    "authorization",
+    "oauth",
+    "jwt"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
