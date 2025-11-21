@@ -1,0 +1,23 @@
+{
+  "name": "reliability-concepts",
+  "version": "1.0.0",
+  "description": "Reliability and availability concepts examples",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "circuit-breaker": "node circuit-breaker.js",
+    "high-availability": "node high-availability.js",
+    "fault-tolerance": "node fault-tolerance.js",
+    "disaster-recovery": "node disaster-recovery.js",
+    "health-checks": "node health-checks.js",
+    "all": "node high-availability.js && node fault-tolerance.js && node disaster-recovery.js && node circuit-breaker.js && node health-checks.js"
+  },
+  "keywords": [
+    "system-design",
+    "reliability",
+    "circuit-breaker"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+

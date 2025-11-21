@@ -1,0 +1,25 @@
+{
+  "name": "scalability-concepts",
+  "version": "1.0.0",
+  "description": "Scalability concepts examples",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "cache": "node cache-strategies.js",
+    "auto-scaling": "node auto-scaling.js",
+    "sharding": "node sharding.js",
+    "database-scaling": "node database-scaling.js",
+    "cdn": "node cdn.js",
+    "all": "node auto-scaling.js && node sharding.js && node database-scaling.js && node cdn.js && node cache-strategies.js"
+  },
+  "keywords": [
+    "system-design",
+    "scalability",
+    "caching",
+    "database",
+    "cdn"
+  ],
+  "author": "",
+  "license": "MIT"
+}

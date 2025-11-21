@@ -1,0 +1,4 @@
+# Python requirements for fundamental concepts
+# No external dependencies required for basic examples
+# Add dependencies as needed for advanced examples
+

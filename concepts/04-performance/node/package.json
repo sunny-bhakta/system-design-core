@@ -1,0 +1,27 @@
+{
+  "name": "performance-optimization",
+  "version": "1.0.0",
+  "description": "Performance optimization concepts examples",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "connection-pool": "node connection-pool.js",
+    "batch-processing": "node batch-processing.js",
+    "latency": "node latency-optimization.js",
+    "throughput": "node throughput-optimization.js",
+    "resource": "node resource-optimization.js",
+    "query-optimization": "node database-query-optimization.js",
+    "all": "node latency-optimization.js && node throughput-optimization.js && node throughput-optimization.js && node resource-optimization.js && node database-query-optimization.js"
+  },
+  "keywords": [
+    "system-design",
+    "performance",
+    "optimization",
+    "latency",
+    "throughput"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+

@@ -1,0 +1,28 @@
+{
+  "name": "data-management-concepts",
+  "version": "1.0.0",
+  "description": "Data management concepts examples",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "database-types": "node database-types.js",
+    "data-models": "node data-models.js",
+    "data-consistency": "node data-consistency.js",
+    "data-replication": "node data-replication.js",
+    "partitioning": "node partitioning.js",
+    "sharding": "node ../02-scalability/node/sharding.js",
+    "all": "node database-types.js && node data-models.js && node data-consistency.js && node data-replication.js && node partitioning.js"
+  },
+  "keywords": [
+    "system-design",
+    "data-management",
+    "database",
+    "consistency",
+    "replication",
+    "partitioning"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+

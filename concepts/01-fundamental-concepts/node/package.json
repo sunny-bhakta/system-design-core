@@ -1,0 +1,24 @@
+{
+  "name": "fundamental-concepts",
+  "version": "1.0.0",
+  "description": "Fundamental system design concepts examples",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "load-balancer": "node load-balancer.js",
+    "cap-theorem": "node cap-theorem.js",
+    "acid": "node acid-transaction.js",
+    "capacity": "node capacity-estimation.js",
+    "consensus": "node consensus-algorithms.js"
+  },
+  "keywords": [
+    "system-design",
+    "load-balancing",
+    "cap-theorem",
+    "acid"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
