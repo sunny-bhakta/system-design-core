@@ -1,0 +1,19 @@
+{
+  "name": "twitter-design",
+  "version": "1.0.0",
+  "description": "Twitter/X design problem implementation",
+  "main": "twitter.js",
+  "type": "module",
+  "scripts": {
+    "start": "node twitter.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "system-design",
+    "twitter",
+    "social-media"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+

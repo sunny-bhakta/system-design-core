@@ -1,0 +1,19 @@
+{
+  "name": "instagram-design",
+  "version": "1.0.0",
+  "description": "Instagram design problem implementation",
+  "main": "instagram.js",
+  "type": "module",
+  "scripts": {
+    "start": "node instagram.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "system-design",
+    "instagram",
+    "social-media"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+

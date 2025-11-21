@@ -1,0 +1,20 @@
+{
+  "name": "distributed-cache",
+  "version": "1.0.0",
+  "description": "Distributed Cache design problem implementation",
+  "main": "distributed-cache.js",
+  "type": "module",
+  "scripts": {
+    "start": "node distributed-cache.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "system-design",
+    "distributed-cache",
+    "redis",
+    "memcached"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+

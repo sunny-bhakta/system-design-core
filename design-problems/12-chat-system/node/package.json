@@ -1,0 +1,19 @@
+{
+  "name": "chat-system",
+  "version": "1.0.0",
+  "description": "Chat System design problem implementation",
+  "main": "chat-system.js",
+  "type": "module",
+  "scripts": {
+    "start": "node chat-system.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "system-design",
+    "chat-system",
+    "messaging"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+

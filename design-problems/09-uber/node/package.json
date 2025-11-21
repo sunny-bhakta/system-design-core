@@ -1,0 +1,19 @@
+{
+  "name": "uber-design",
+  "version": "1.0.0",
+  "description": "Uber design problem implementation",
+  "main": "uber.js",
+  "type": "module",
+  "scripts": {
+    "start": "node uber.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "system-design",
+    "uber",
+    "ride-sharing"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+

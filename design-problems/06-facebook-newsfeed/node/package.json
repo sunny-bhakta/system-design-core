@@ -1,0 +1,19 @@
+{
+  "name": "facebook-newsfeed",
+  "version": "1.0.0",
+  "description": "Facebook News Feed design problem implementation",
+  "main": "facebook-newsfeed.js",
+  "type": "module",
+  "scripts": {
+    "start": "node facebook-newsfeed.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "system-design",
+    "facebook",
+    "news-feed"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+

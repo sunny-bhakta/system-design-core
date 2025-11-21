@@ -1,0 +1,19 @@
+{
+  "name": "notification-system",
+  "version": "1.0.0",
+  "description": "Notification System design problem implementation",
+  "main": "notification-system.js",
+  "type": "module",
+  "scripts": {
+    "start": "node notification-system.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "system-design",
+    "notification-system",
+    "multi-channel"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+

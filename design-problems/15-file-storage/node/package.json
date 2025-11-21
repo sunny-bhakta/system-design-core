@@ -1,0 +1,19 @@
+{
+  "name": "file-storage",
+  "version": "1.0.0",
+  "description": "File Storage System design problem implementation",
+  "main": "file-storage.js",
+  "type": "module",
+  "scripts": {
+    "start": "node file-storage.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "system-design",
+    "file-storage",
+    "cloud-storage"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+

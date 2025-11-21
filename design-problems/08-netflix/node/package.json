@@ -1,0 +1,19 @@
+{
+  "name": "netflix-design",
+  "version": "1.0.0",
+  "description": "Netflix design problem implementation",
+  "main": "netflix.js",
+  "type": "module",
+  "scripts": {
+    "start": "node netflix.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "system-design",
+    "netflix",
+    "video-streaming"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+

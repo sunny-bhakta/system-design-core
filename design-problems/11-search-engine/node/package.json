@@ -1,0 +1,19 @@
+{
+  "name": "search-engine",
+  "version": "1.0.0",
+  "description": "Search Engine design problem implementation",
+  "main": "search-engine.js",
+  "type": "module",
+  "scripts": {
+    "start": "node search-engine.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "system-design",
+    "search-engine",
+    "web-crawling"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+

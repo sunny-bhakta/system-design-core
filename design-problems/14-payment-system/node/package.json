@@ -1,0 +1,19 @@
+{
+  "name": "payment-system",
+  "version": "1.0.0",
+  "description": "Payment System design problem implementation",
+  "main": "payment-system.js",
+  "type": "module",
+  "scripts": {
+    "start": "node payment-system.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "system-design",
+    "payment-system",
+    "transactions"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+

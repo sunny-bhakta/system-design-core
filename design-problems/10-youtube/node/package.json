@@ -1,0 +1,19 @@
+{
+  "name": "youtube-design",
+  "version": "1.0.0",
+  "description": "YouTube design problem implementation",
+  "main": "youtube.js",
+  "type": "module",
+  "scripts": {
+    "start": "node youtube.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "system-design",
+    "youtube",
+    "video-sharing"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+

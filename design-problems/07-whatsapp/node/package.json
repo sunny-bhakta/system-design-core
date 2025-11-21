@@ -1,0 +1,19 @@
+{
+  "name": "whatsapp-design",
+  "version": "1.0.0",
+  "description": "WhatsApp design problem implementation",
+  "main": "whatsapp.js",
+  "type": "module",
+  "scripts": {
+    "start": "node whatsapp.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "system-design",
+    "whatsapp",
+    "messaging"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+

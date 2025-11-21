@@ -1,0 +1,19 @@
+{
+  "name": "rate-limiter",
+  "version": "1.0.0",
+  "description": "Rate Limiter design problem implementation",
+  "main": "rate-limiter-design.js",
+  "type": "module",
+  "scripts": {
+    "start": "node rate-limiter-design.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "system-design",
+    "rate-limiter",
+    "throttling"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
